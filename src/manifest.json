@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Incognito Blocker",
   "description": "Blocks incognito tabs.",
-  "version": "1.1",
+  "version": "1.2",
 
   "icons": { "48": "icon48.png",
              "128": "icon.png" },
