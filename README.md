@@ -7,10 +7,10 @@ It must be allowed to run in incognito mode to work.
 
 See the full set up guide at https://www.incognitoblocker.com/setup.
 
-### Install it
+## Install it
 https://chrome.google.com/webstore/detail/incognito-blocker/adegbkmimffpmlcdkjbadjjeiaacflap
 
-### Allow it to run in incognito
+## Allow it to run in incognito
 1. Go to chrome://extensions in your browser, and click "Details" on Incognito Blocker.
 
 <img src="images/Incognito%20Blocker%20Tile.png?raw=true" width="450">
@@ -19,7 +19,7 @@ https://chrome.google.com/webstore/detail/incognito-blocker/adegbkmimffpmlcdkjba
 
 <img src="images/Allow%20in%20Incognito.png?raw=true" width="700">
 
-### Install it from source
+## Install it from source
 You can easily install this from source by:
 1. Download the zip: https://github.com/brismuth/incognito-blocker/archive/master.zip.
 2. Extract the zip file.
